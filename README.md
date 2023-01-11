@@ -11,13 +11,13 @@ We assume that you already have `node v14.0.0` or higher installed.
 To install rng just run:
 
 ```
-npm i -g rng-cli
+npm i -g @mobilidade_arezzo/rng-cli
 ```
 
 Or if you prefer:
 
 ```
-yarn global add rng-cli
+yarn global add @mobilidade_arezzo/rng-cli
 ```
 
 ## Usage
